@@ -27,7 +27,7 @@ Incorporating macroeconomic indicators significantly improved model accuracy.
 ## 📊 Results: Actual vs Predicted Forex Rates
 
 ### 1. LSTM Model
-
+![image](https://github.com/user-attachments/assets/f35c2d8d-758f-4e00-871a-cdded2672a9e)
 
 - **MSE**: 0.00051666
 - **RMSE**: 0.0283
@@ -36,6 +36,7 @@ Incorporating macroeconomic indicators significantly improved model accuracy.
 ---
 
 ### 2. Transformer Model
+![image](https://github.com/user-attachments/assets/875860ce-e290-476f-9e2d-9b990686f4f0)
 
 - **MSE**: 0.00078637
 - **RMSE**: 0.280
@@ -44,6 +45,7 @@ Incorporating macroeconomic indicators significantly improved model accuracy.
 ---
 
 ### 3. Support Vector Regression (SVR)
+![image](https://github.com/user-attachments/assets/0a3bc422-6011-48a9-9d3f-404ecec48a9d)
 
 
 - **MSE**: 0.0021907
